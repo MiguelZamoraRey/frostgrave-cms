@@ -12,33 +12,27 @@ mainpitch:
 description: Inicialmente jugaremos una campaña de feostgrave un wargame de escaramuzas.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/frostgrave-wizards-boxed-set-7.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Hace mucho, mucho tiempo, en el centro de un gran imperio mágico
+        descansaba la majestuosa ciudad de Felstad. Sus altas torres,
+        laberínticas catacumbas e inmensas bibliotecas fueron la maravilla de su
+        época. En sus talleres se crearon todo tipo de pociones, pergaminos y
+        objetos místicos. Sin embargo, durante una apocalíptica noche, alguien
+        cometió un error. Ya fuese en una altanera torre o una oscura cámara de
+        invocación, un arrogante mago liberó una magia demasiado poderosa como
+        para controlarla. De la nada surgió una tormenta, una ventisca tan
+        fuerte que devoró la ciudad por completo, enterrándola entre sus
+        entrañas y convirtiendo toda la región circundante en un enorme yermo
+        congelado. El imperio se hizo pedazos y con él, la magia se desvaneció.
+        Pasaron los siglos y Felstad dejó de ser historia para convertirse
+        primero en leyenda y, después, en mito. Solo un puñado de magos,
+        aferrándose a los últimos restos de conocimiento arcano existente,
+        siguió creyendo que la ciudad perdida de Felstad existió de verdad. Y su
+        fe se vio recompensada.
+
+
+        Tras un millar de años, el diabólico invierno ha finalizado. Las nieves se funden y, con ellas, Felstad ha sido redescubierta. Sus edificios yacen en ruinas, ocupados por no muertos y constructos de origen mágico, el legado de los experimentos arcanos del desaparecido imperio. Es un lugar maligno y peligroso. Las pocas y sufridas almas que habitan las aldeas más cercanas conocen la ciudad por otro nombre –Frostgrave (Tumba Helada)– y cualquier persona con dos dedos de frente mantiene la distancia. Sin embargo, para los demás, ansiosos de poder y riquezas, ha surgido una oportunidad sin igual, un letal laberinto lleno de conocimientos secretos de una era ya olvidada.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
