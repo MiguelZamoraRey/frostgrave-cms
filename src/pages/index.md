@@ -3,7 +3,7 @@ templateKey: index-page
 title: Kekos y Mazmorras
 image: /img/winter_by_ivanlaliashvili_dbfe4og-fullview.jpg
 heading: ¿A qué jugamos?
-subheading: La página con los informes de batalla y trasfondos más fresquitos
+subheading: Un pequeño resumen de los wargames a los que jugamos.
 mainpitch:
   title: ¿Quiénes somos?
   description: >
