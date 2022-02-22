@@ -33,6 +33,17 @@ intro:
 
 
         Tras un millar de años, el diabólico invierno ha finalizado. Las nieves se funden y, con ellas, Felstad ha sido redescubierta. Sus edificios yacen en ruinas, ocupados por no muertos y constructos de origen mágico, el legado de los experimentos arcanos del desaparecido imperio. Es un lugar maligno y peligroso. Las pocas y sufridas almas que habitan las aldeas más cercanas conocen la ciudad por otro nombre –Frostgrave (Tumba Helada)– y cualquier persona con dos dedos de frente mantiene la distancia. Sin embargo, para los demás, ansiosos de poder y riquezas, ha surgido una oportunidad sin igual, un letal laberinto lleno de conocimientos secretos de una era ya olvidada.
+    - text: En una galaxia destrozada por la Guerra Final, colosales flotas piratas
+        vagan de sistema solar en sistema solar, robando, chantajeando y
+        llevándose como esclavos a sus habitantes. Aplastan con rapidez y gran
+        brutalidad todo intento de formar cualquier tipo de autoridad central
+        más grande que una ciudad estado. Para sobrevivir en estos tiempos
+        oscuros, es necesario ser pequeño y discreto. Entre todo este caos, sin
+        embargo, también han florecido miles de tripulaciones independientes.
+        Todo tipo de contrabandistas, cazadores de reliquias, rebeldes y
+        mercenarios recorren las agonizantes estrellas en pequeñas naves,
+        ganándose la vida como pueden...
+      image: /img/stargrave.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
