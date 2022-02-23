@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Kekos y mazmorras es una página fan para dar visibilidad a nuestras campañas
     de wargames nacida en 2022.
-description: "A continuación un resumen de algunos de los wargames que vamos a jugar:"
+description: Actualmente vamos a empezar nuestra primera campaña en el mundo de Frostgrave.
 intro:
   blurbs:
     - image: /img/frostgrave-wizards-boxed-set-7.jpg
