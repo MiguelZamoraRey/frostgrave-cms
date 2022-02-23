@@ -3,17 +3,18 @@ templateKey: about-page
 path: /about
 title: ¿Quiénes somos?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Esther
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Recién iniciada en el hobby, sobre todo la pintura (puedes bichear [aquí](https://www.instagram.com/lady_toxiclake/)), me considero más apasionada del mundo de la fantasía que del de la ciencia ficción (para que ocultarlo...), y estoy deseando ver hasta dónde me lleva esta nueva afición.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Denís
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet turpis nulla. Suspendisse consectetur ligula id ipsum blandit suscipit. Suspendisse potenti. Nunc sed urna vitae neque mollis sollicitudin eu finibus mi. Morbi aliquam orci nisl, a volutpat risus ultricies vitae. Nam feugiat consequat turpis et facilisis. Pellentesque sollicitudin, nisi at viverra venenatis, enim sapien tempor ligula, quis faucibus enim sem nec lorem. Etiam faucibus dui et aliquam feugiat. In fringilla ex justo, sed sagittis erat tristique vitae. Donec dapibus massa et ex efficitur, sed suscipit nibh venenatis.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Carlos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet turpis nulla. Suspendisse consectetur ligula id ipsum blandit suscipit. Suspendisse potenti. Nunc sed urna vitae neque mollis sollicitudin eu finibus mi. Morbi aliquam orci nisl, a volutpat risus ultricies vitae. Nam feugiat consequat turpis et facilisis. Pellentesque sollicitudin, nisi at viverra venenatis, enim sapien tempor ligula, quis faucibus enim sem nec lorem. Etiam faucibus dui et aliquam feugiat. In fringilla ex justo, sed sagittis erat tristique vitae. Donec dapibus massa et ex efficitur, sed suscipit nibh venenatis.
+
+### Miguel
+
+Profesionalmente me dedico al desarrollo de software como freelance (más información [aquí](https://www.mzrdeveloper.com/)) y entre otros proyectos he creado también esta web. En el ámbito dentro del hobby he sido desde bien pequeño un gran aficionado a los wargame y al rol entre otros muchos vicios.
