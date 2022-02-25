@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { GatsbyImage } from 'gatsby-plugin-image';
+import logo from '../img/kym.png';
 
 export default function FullWidthImage(props) {
   const {
@@ -67,21 +68,29 @@ export default function FullWidthImage(props) {
             }}
           >
             {/* Any content here will be centered in the component */}
-            {title && (
-              <h1
-                className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-                style={{
-                  boxShadow:
-                    'rgba(0, 100, 255, 0.6) 0.5rem 0px 0px, rgba(0, 100, 255, 0.6) -0.5rem 0px 0px',
-                  backgroundColor: 'rgba(0, 100, 255, 0.6)',
-                  color: 'white',
-                  lineHeight: '1',
-                  padding: '0.25em',
-                  borderRadius: '1rem',
-                }}
-              >
-                {title}
-              </h1>
+            {title === 'Kekos y Mazmorras' ? (
+              <img
+                src={logo}
+                alt="KekosYmazmorras"
+                style={{ width: '14em', height: '10em' }}
+              />
+            ) : (
+              title && (
+                <h1
+                  className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+                  style={{
+                    boxShadow:
+                      'rgba(0, 100, 255, 0.6) 0.5rem 0px 0px, rgba(0, 100, 255, 0.6) -0.5rem 0px 0px',
+                    backgroundColor: 'rgba(0, 100, 255, 0.6)',
+                    color: 'white',
+                    lineHeight: '1',
+                    padding: '0.25em',
+                    borderRadius: '1rem',
+                  }}
+                >
+                  {title}
+                </h1>
+              )
             )}
             {subheading && (
               <h3
