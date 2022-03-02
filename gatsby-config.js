@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Kekos y mazmorras',
     siteUrl: 'https://www.https://www.kekosymazmorras.com',
-    description: 'Blog sobre wargames y quehaceres del hobby.',
+    description:
+      'Kekos y mazmorras es un blog sobre wargames y quehaceres del hobby.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
