@@ -11,6 +11,10 @@ description: >-
   ¿Quién se alzará con la victoria?
 featuredpost: true
 featuredimage: /img/photo_2022-03-09_21-34-27-5-.jpg
+tags:
+  - Frostgrave
+  - CultoHakim
+  - BrujasArpías
 ---
 ## Introducción
 
@@ -26,7 +30,9 @@ Ambos bandos no tardaron mucho en darse cuenta de que efectivamente había tesor
 
 ## Turno 1
 
-Rápidamente las Brujas toman la iniciativa y empiezan a desplegarte tomando el alto edificio donde se escondía uno de los tesoros y dónde la maga obtendría una visión casi absoluta del campo de batalla mientras que sus guerreras avanzaban en el campo de batalla subestimando a los nigromantes y sus potentes hechizos. Hakim lanzó un proyectil oseo sobre la cazadora de tesoros que aprendió la lección que le dejaría una pequeña cicatriz, Samja imitando a su maestro lanzó otro con incluso más fortuna dejando fuera de juego a la amenazante Hulka de un solo disparo.
+Rápidamente las Brujas toman la iniciativa y empiezan a desplegarse tomando el alto edificio donde se escondía uno de los tesoros y dónde la maga obtendría una visión casi absoluta del campo de batalla mientras que sus guerreras avanzaban en el campo de batalla subestimando a los nigromantes y sus potentes hechizos. 
+
+Hakim lanzó un proyectil oseo sobre la cazadora de tesoros que aprendió la lección que le dejaría una pequeña cicatriz, Samja imitando a su maestro lanzó otro con incluso más fortuna dejando fuera de juego a la amenazante Hulka de un solo disparo.
 
 ![](/img/photo_2022-03-09_21-34-26-6-.jpg "Samja deja fuera de combate a la incauta Hulka con un proyectil óseo")
 
