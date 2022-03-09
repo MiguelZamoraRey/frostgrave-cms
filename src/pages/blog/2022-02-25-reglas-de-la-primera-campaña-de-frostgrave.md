@@ -4,7 +4,7 @@ title: Reglas de la Primera campaña de Frostgrave
 date: 2022-02-25T20:57:51.710Z
 description: "Anunciamos las reglas de la primera campaña de Frostgrave de Kekos
   y Mazmorras. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/spellbreak.jpg
 tags:
   - Frostgrave
